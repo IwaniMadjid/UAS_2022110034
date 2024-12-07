@@ -65,3 +65,63 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 "# UAS_2022110034" 
+
+   ERROR  Command "make:filament-userecho" is not defined. Did you mean one of these?  
+
+  ⇂ make:cache-table  
+  ⇂ make:cast  
+  ⇂ make:channel  
+  ⇂ make:class  
+  ⇂ make:command  
+  ⇂ make:component  
+  ⇂ make:controller  
+  ⇂ make:enum  
+  ⇂ make:event  
+  ⇂ make:exception  
+  ⇂ make:factory  
+  ⇂ make:filament-cluster  
+  ⇂ make:filament-exporter  
+  ⇂ make:filament-importer  
+  ⇂ make:filament-issue  
+  ⇂ make:filament-page  
+  ⇂ make:filament-panel  
+  ⇂ make:filament-relation-manager  
+  ⇂ make:filament-resource  
+  ⇂ make:filament-theme  
+  ⇂ make:filament-user  
+  ⇂ make:filament-widget  
+  ⇂ make:form-field  
+  ⇂ make:form-layout  
+  ⇂ make:infolist-entry  
+  ⇂ make:infolist-layout  
+  ⇂ make:interface  
+  ⇂ make:job  
+  ⇂ make:job-middleware  
+  ⇂ make:listener  
+  ⇂ make:livewire  
+  ⇂ make:livewire-form  
+  ⇂ make:livewire-table  
+  ⇂ make:mail  
+  ⇂ make:middleware  
+  ⇂ make:migration  
+  ⇂ make:model  
+  ⇂ make:notification  
+  ⇂ make:notifications-table  
+  ⇂ make:observer  
+  ⇂ make:policy  
+  ⇂ make:provider  
+  ⇂ make:queue-batches-table  
+  ⇂ make:queue-failed-table  
+  ⇂ make:queue-table  
+  ⇂ make:request  
+  ⇂ make:resource  
+  ⇂ make:rule  
+  ⇂ make:scope  
+  ⇂ make:seeder  
+  ⇂ make:session-table  
+  ⇂ make:table-column  
+  ⇂ make:test  
+  ⇂ make:trait  
+  ⇂ make:view  
+
+"# UAS_2022110034" 
